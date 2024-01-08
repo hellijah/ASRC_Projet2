@@ -1,0 +1,19 @@
+communication 16
+
+direction financiere 14
+
+DSI 15
+
+Direction generale 8
+
+ventes et developpement 43
+
+service juridique 8
+
+RH 23
+
+direction marketing 25
+
+R&D 14
+
+service generaux 10
