@@ -1,0 +1,56 @@
+Plages d'adresses IP :
+
+Groupe 1 (1 ordinateur) : 192.168.1.0/30
+Groupe 2 (3 ordinateurs) : 192.168.1.4/29
+Groupe 3 (3 ordinateurs) : 192.168.1.16/29
+Groupe 4 (3 ordinateurs) : 192.168.1.32/29
+Équipements réseau : 192.168.2.0/24
+
+
+configuration des  routeurs en redondance(**)
+- Routeur 1 (Principal) :
+
+  - Interface 1 : 192.168.1.1/30 (VLAN 10 - Groupe 1)
+  - Interface 2 : 192.168.1.5/29 (VLAN 20 - Groupe 2)
+  - Interface 3 : 192.168.1.17/29 (VLAN 30 - Groupe 3)
+  - Interface 4 : 192.168.1.33/29 (VLAN 40 - Groupe 4)
+- Routeur 2 (Redondant) :
+  - Interfaces configurées de manière identique à Routeur 1 pour la redondance(**).
+
+
+Table de Routage (sur les Routeurs) :
+
+Destination       Masque de sous-réseau       Passerelle       Interface de sortie
+192.168.1.4       255.255.255.248             Aucune           VLAN 20 (Interface 2)
+192.168.1.16      255.255.255.248             Aucune           VLAN 30 (Interface 3)
+192.168.1.32      255.255.255.248             Aucune           VLAN 40 (Interface 4)
+0.0.0.0           0.0.0.0                     192.168.1.1      VLAN 10 (Interface 1 - Passerelle par défaut)
+
+Structure Active Directory :
+
+- OU(*) Utilisateurs : Classées selon les départements ou les équipes.
+- OU(*) Groupes : Segmentées en fonction des rôles ou des autorisations.
+- OU(*) Ordinateurs : Organisées en fonction des emplacements physiques ou des types d'appareils.
+
+Récapitulatif des Éléments du Réseau :
+Switch 1 : Groupe 1 (VLAN 10)(***)
+Switch 2 : Groupe 2 (VLAN 20)
+Switch 3 : Groupe 3 (VLAN 30)
+Switch 4 : Groupe 4 (VLAN 40)
+Switch 5 : Équipements réseau (VLAN 50)
+
+Cette configuration assure une redondance des routeurs pour une meilleure disponibilité du réseau,
+ une segmentation claire des groupes d'ordinateurs, une table de routage précise pour acheminer le trafic,
+ et une structuration logique dans Active Directory pour une gestion efficace des utilisateurs, des groupes et des ordinateurs.
+
+
+
+(*)pour active  directory OU signifie : Organizational Unit
+
+(**)redondance : 
+La redondance est une duplication délibérée qui assure la disponibilité continue des systèmes en cas de panne,
+ garantissant la fiabilité et la continuité des opérations.
+
+(***)Les VLAN (Virtual Local Area Networks) sont des réseaux logiques qui séparent un réseau physique en plusieurs sous-réseaux distincts
+, permettant d'isoler et de sécuriser le trafic entre différents groupes d'appareils au sein d'un même réseau physique.
+
