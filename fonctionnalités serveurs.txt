@@ -1,0 +1,24 @@
+Serveur de fichiers : Stocke et gère les fichiers partagés, facilitant le partage de données au sein du réseau.
+
+Serveur d'impression : Gère les imprimantes réseau, permettant aux utilisateurs d'imprimer à partir de différents postes de travail.
+
+Serveur de messagerie : Facilite la communication électronique en gérant les e-mails et les services associés.
+
+Serveur web : Héberge des sites web et des applications web, fournissant un accès à ces services aux utilisateurs du réseau ou à des utilisateurs externes.
+
+Serveur de base de données : Stocke et gère les données de manière organisée, permettant aux applications et aux utilisateurs d'accéder aux informations de manière efficace.
+
+Serveur DNS (Domain Name System) : Traduit les noms de domaine en adresses IP, facilitant la navigation sur Internet.
+
+Serveur DHCP (Dynamic Host Configuration Protocol) : Distribue automatiquement les adresses IP et les informations de configuration réseau aux clients du réseau.
+
+Serveur VPN (Virtual Private Network) : Fournit un accès sécurisé aux ressources réseau à distance, permettant aux utilisateurs de se connecter de manière sécurisée depuis des emplacements distants.
+
+Serveur de sauvegarde : Gère les opérations de sauvegarde et de récupération des données critiques du réseau.
+
+Serveur de surveillance réseau : Surveille le trafic réseau, les performances et la sécurité, fournissant des informations essentielles pour la gestion du réseau.
+
+Serveur de contrôle de domaine (Domain Controller) : Gère l'authentification des utilisateurs, l'autorisation d'accès aux ressources et la politique de sécurité dans un environnement Windows Server.
+
+Serveur de gestion des licences : Gère les licences logicielles pour garantir la conformité aux termes de licence.
+
