@@ -1,10 +1,10 @@
 communication 		192.168.10.0 /24	VLAN10
-Direction financière 	192.168.11.0 /24	VLAN11	
-DSI 			192.168.12.0 /24	VLAN12
-Direction générale	192.168.13.0 /24	VLAN13
-Ventes et Dev Comm	192.168.14.0 /24	VLAN14
-Service Juridique	192.168.15.0 /24	VLAN15
-RH			192.168.16.0 /24	VLAN16
-Direction Marketing	192.168.17.0 /24	VLAN17
-R&D			192.168.18.0 /24	VLAN18
-Service Generaux	192.168.19.0 /24	VLAN19
+Direction financière 	192.168.20.0 /24	VLAN20	
+DSI 			192.168.30.0 /24	VLAN30
+Direction générale	192.168.40.0 /24	VLAN40
+Ventes et Dev Comm	192.168.50.0 /24	VLAN50
+Service Juridique	192.168.60.0 /24	VLAN60
+RH			192.168.70.0 /24	VLAN70
+Direction Marketing	192.168.80.0 /24	VLAN80
+R&D			192.168.90.0 /24	VLAN90
+Service Generaux	192.168.100.0 /24	VLAN100
