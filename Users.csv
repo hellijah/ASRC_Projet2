@@ -1,0 +1,177 @@
+Prenom,Nom,Departement,fonction
+Carlos,Alvarez,Communication,Charge en droit de la communication
+Alice,Perrin,Communication,Charge de communication
+Adrian,Schultz,Communication,Charge de presse
+Lea,Gagnon,Communication,Charge de presse
+Alexandre,Chevalier,Communication,Responsable relation media
+Valentina,Ferrari,Communication,Directrice communication
+Luca,Rizzo,Communication,Responsable publicite
+Noemie,Pichon,Communication,Publicitaire
+Marco,Ricci,Communication,Publicitaire
+Elodie,Boucher,Communication,Publicitaire
+Felix,Hoffmann,Communication,Designer graphique
+Charlotte,Giroux,Communication,Webmaster
+Giovanni,Moretti,Communication,Publicitaire
+Pauline,Blanc,Communication,Publicitaire
+Henri,Lambert,Communication,photographe
+Amelie,Fournier,Communication,Publicitaire
+Romain,Gauthier,Direction Financiere,Comptable
+Estelle,Dubois,Direction Financiere,Comptable
+Mathieu,Roux,Direction Financiere,Comptable
+Aurelie,Petit,Direction Financiere,DAF
+Victor,Lemoine,Direction Financiere,Analyste financier
+elise,Bernard,Direction Financiere,Analyste financier
+Leon,Müller,Direction Financiere,Analyste financier
+Justine,Fontaine,Direction Financiere,Analyste financier
+Gabriel,Mercier,Direction Financiere,Analyste financier
+Zoe,Dupuis,Direction Financiere,Controleur de gestion
+Quentin,Blanchard,Direction Financiere,Controleur de gestion
+Eva,Meyer,Direction Financiere,Controleur de gestion
+Louis,Dupont,Direction Financiere,Controleur de gestion
+Anaïs,Fontaine,Direction Financiere,Controleur de gestion
+Pierre,David,DSI,Data scientist
+Quentin,Bertrand,DSI,Data scientist
+Rosalie,Roux,DSI,Data scientist
+Sebastien,Vincent,DSI,Technicien reseaux
+Theo,Fournier,DSI,Technicien reseaux
+Ulysse,Morel,DSI,Technicien Systemes
+Valerie,Girard,DSI,Hotliner
+William,Andre,DSI,Hotliner
+Xavier,Lefevre,DSI,Hotliner
+Yasmine,Mercier,DSI,Hotliner
+Zoe,Dupont,DSI,Hotliner
+Adrien,Lambert,DSI,DSI
+Beatrice,Bonnet,DSI,Developpeur
+Cyril,Francois,DSI,Developpeur
+Diane,Martinez,DSI,Integrateur
+emile,Legrand,Direction Generale,Directeur adjoint
+Fanny,Garnier,Direction Generale,Assistant de direction
+Gilles,Faure,Direction Generale,CEO
+Helene,Rousseau,Direction Generale,Assistant de direction
+Ivan,Blanchard,Direction Generale,Secretaire
+Juliette,Guerin,Direction Generale,Secretaire
+Kevin,Muller,Direction Generale,Assistant de direction
+Laure,Henry,Direction Generale,Assistant de direction
+Alice,Martin,Ventes et Developpement Commercial,Commercial
+Bruno,Bernard,Ventes et Developpement Commercial,Commercial
+Clara,Dubois,Ventes et Developpement Commercial,Commercial
+David,Thomas,Ventes et Developpement Commercial,Commercial
+Elena,Robert,Ventes et Developpement Commercial,Responsable B2B
+Fabien,Richard,Ventes et Developpement Commercial,Commercial
+Gabrielle,Petit,Ventes et Developpement Commercial,Commercial
+Hugo,Durand,Ventes et Developpement Commercial,Commercial
+Isabelle,Leroy,Ventes et Developpement Commercial,Commercial
+Jerome,Moreau,Ventes et Developpement Commercial,Commercial
+Karine,Simon,Ventes et Developpement Commercial,Responsable B2C
+Louis,Laurent,Ventes et Developpement Commercial,Responsable ADV
+Melanie,Lefebvre,Ventes et Developpement Commercial,Responsable Grands Comptes
+Nicolas,Michel,Ventes et Developpement Commercial,Commercial
+Olivia,Garcia,Ventes et Developpement Commercial,Commercial
+Emma,Dupont,Ventes et Developpement Commercial,Commercial
+Lucas,Martin,Ventes et Developpement Commercial,Commercial
+Chloe,Bernard,Ventes et Developpement Commercial,Commercial
+Maxime,Petit,Ventes et Developpement Commercial,Commercial
+Sarah,Durand,Ventes et Developpement Commercial,Directrice Commercial
+Hugo,Leroy,Ventes et Developpement Commercial,Commercial
+Alice,Moreau,Ventes et Developpement Commercial,Commercial
+Jules,Simon,Ventes et Developpement Commercial,Commercial
+Lea,Michel,Ventes et Developpement Commercial,Commercial
+Theo,Laurent,Ventes et Developpement Commercial,Commercial
+Laura,David,Ventes et Developpement Commercial,Commercial
+Nicolas,Bertrand,Ventes et Developpement Commercial,Gestionnaire ADV
+Julie,Garcia,Ventes et Developpement Commercial,Gestionnaire ADV
+Alexandre,Roux,Ventes et Developpement Commercial,Responsable Service Client
+Manon,Vincent,Ventes et Developpement Commercial,Agent Client
+Raphaël,Lefebvre,Ventes et Developpement Commercial,Agent Client
+Marie,Leroux,Ventes et Developpement Commercial,Agent Client
+Mathieu,Morel,Ventes et Developpement Commercial,Agent Client
+Camille,Fournier,Ventes et Developpement Commercial,Gestionnaire ADV
+Thomas,Girard,Ventes et Developpement Commercial,Gestionnaire ADV
+Juliette,Bonnet,Ventes et Developpement Commercial,Gestionnaire ADV
+Antoine,Lambert,Ventes et Developpement Commercial,Gestionnaire ADV
+elise,Francois,Ventes et Developpement Commercial,Gestionnaire ADV
+Marc,Roussel,Ventes et Developpement Commercial,Acheteur
+Luna,García,Ventes et Developpement Commercial,Acheteur
+Oliver,Johnson,Ventes et Developpement Commercial,Responsable achat
+Fatima,Zahra,Ventes et Developpement Commercial,Acheteur
+Dmitri,Orlov,Ventes et Developpement Commercial,Acheteur
+Nathalie,Nicolas,Service Juridique,Juriste
+Oscar,Perrin,Service Juridique,Juriste
+Patricia,Morin,Service Juridique,Juriste
+Romain,Mathieu,Service Juridique,Juriste
+Sophie,Clement,Service Juridique,Responsable Juridique
+Thomas,Gauthier,Service Juridique,Juriste
+Ugo,Dumont,Service Juridique,Juriste
+Veronique,Lopez,Service Juridique,Juriste
+Wendy,Fontaine,RH,Agent RH
+Xenia,Chevalier,RH,Agent RH
+Yves,Colin,RH,Agent RH
+Zacharie,Leclerc,RH,Agent RH
+Antoine,Poirier,RH,Agent RH
+Blanche,Renaud,RH,Agent RH
+Cedric,Caron,RH,Agent RH
+Delphine,Boucher,RH,Agent RH
+etienne,Brun,RH,Agent RH
+Florian,Blanc,RH,Agent RH
+Genevieve,Giraud,RH,Agent RH
+Henri,Joly,RH,Agent RH
+Irene,Lemoine,RH,Agent RH
+Jordan,Barbier,RH,Agent RH
+Lionel,Marchand,RH,Directeur RH
+Myriam,Aubert,RH,Formateur
+Noah,Dumas,RH,Formateur
+Ophelie,Poulin,RH,Formateur
+Paul,Lacombe,RH,Technicien HSE
+Rayan,Fontaine,RH,Technicien HSE
+Sara,Lebrun,RH,Technicien HSE
+Timothee,Guillot,RH,Auditeur
+Uriel,Hubert,RH,Animateur securite
+Vanessa,Boyer,Direction Marketing,Analyste marketing
+Walter,Maillard,Direction Marketing,Analyste marketing
+Xena,Leblanc,Direction Marketing,Analyste marketing
+Yohan,Gillet,Direction Marketing,Chef de produit strategique
+Zoel,Roger,Direction Marketing,Chef de produit strategique
+Amaury,Meyer,Direction Marketing,Chef de produit strategique
+Brigitte,Lucas,Direction Marketing,Directeur Marketing Strategique
+Charles,Fernandez,Direction Marketing,Charge de promotion
+Danielle,Carpentier,Direction Marketing,Charge de promotion
+edouard,Boulanger,Direction Marketing,Charge de promotion
+Flore,Leclercq,Direction Marketing,Chef de projet
+Gaël,Garnier,Direction Marketing,Assistant marketing
+Hortense,Morvan,Direction Marketing,Assistant marketing
+Igor,Lapierre,Direction Marketing,Coordinateur Marketing
+Justine,Gallet,Direction Marketing,Responsable Marketing Operationnel
+Kylian,Chauvin,Direction Marketing,Chef de produit
+Lucie,Baron,Direction Marketing,Chef de produit
+Maxime,Renard,Direction Marketing,Chef de produit
+Nina,Pichon,Direction Marketing,Chef de produit
+Olivier,Marechal,Direction Marketing,Gestionaire de marque
+Paulette,Huet,Direction Marketing,Responsable de gamme
+Remi,Deschamps,Direction Marketing,Community manager
+Sylvie,Charpentier,Direction Marketing,Responsable marketing digital
+Tristan,Marie,Direction Marketing,Analyste web
+Ulrich,Da Silva,Direction Marketing,Content manager
+Victoria,Perrot,R&D,Chercheur
+Willy,Le Roux,R&D,Chercheur
+Xander,Bailly,R&D,Chercheur
+Yolande,Gros,R&D,Chercheur
+Ziad,Prevost,R&D,Chercheur
+Paul,Perrin,R&D,Chercheur
+Aya,Patel,R&D,Chercheur
+Youssef,El Amrani,R&D,Chercheur
+Mia,Nguyen,R&D,Chercheur
+Ivan,Petrov,R&D,Chercheur
+Nora,Al-Hassan,R&D,Responsable Laboratoire
+Kai,Chen,R&D,Laborantin
+Leila,Da Silva,R&D,Laborantin
+Alejandro,Gomez,R&D,Laborantin
+Mohamed,Al-Amin,Service Generaux,Agent logistique
+Amelia,Smith,Service Generaux,Agent logistique
+Hiroto,Takahashi,Service Generaux,Agent logistique
+Julien,Marie,Service Generaux,Responsable Logistique
+Isabella,Da Silva,Service Generaux,Agent logistique
+Jerome,Perrot,Service Generaux,Agent logistique
+Nathan,Le Roux,Service Generaux,Agent logistique
+Ines,Bailly,Service Generaux,Agent logistique
+Baptiste,Gros,Service Generaux,Agent logistique
+Charlotte,Prevost,Service Generaux,Agent logistique
